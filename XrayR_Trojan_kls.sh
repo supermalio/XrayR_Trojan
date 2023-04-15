@@ -1,6 +1,6 @@
 shell_version="1.1.3"
 #对接地址
-dockerurl="https://mukey.gogo.bid"
+dockerurl="https://metron.gogo.bid"
 #对接key
 dockerkey="200423"
 #host
