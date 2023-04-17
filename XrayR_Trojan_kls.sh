@@ -43,8 +43,8 @@ Forwarding_method(){
   random=$(cat /dev/urandom | tr -dc '0-9a-z' | head -c 15)
   git clone -b ProxyProtocolTrojan https://github.com/HIM01/docker_XrayR /etc/$random && cd /etc/$random
   mkdir cert
-  wget -N --user-agent="vreg45rtyhg/f4tgre45g" --no-check-certificate https://pan.him.plus/shell/key/eplcgame_com.cert -P ./cert
-  wget -N --user-agent="vreg45rtyhg/f4tgre45g" --no-check-certificate https://pan.him.plus/shell/key/eplcgame_com.key -P ./cert
+  wget -N --user-agent="vreg45rtyhg/f4tgre45g" --no-check-certificate https://gogocloud.xyz/shell/key/eplcgame_com.cert -P ./cert
+  wget -N --user-agent="vreg45rtyhg/f4tgre45g" --no-check-certificate https://gogocloud.xyz/shell/key/eplcgame_com.key -P ./cert
   sleep 5s
   file="./config.yml"
   link="http://127.0.0.1:667"
