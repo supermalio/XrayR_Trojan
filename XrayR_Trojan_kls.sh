@@ -1,6 +1,6 @@
 shell_version="1.1.3"
 #对接地址
-dockerurl="http://googoocloud.xyz"
+dockerurl="http://154.91.196.142"
 #对接key
 dockerkey="200423"
 #host
