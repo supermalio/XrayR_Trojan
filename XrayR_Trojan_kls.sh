@@ -1,6 +1,6 @@
 shell_version="1.1.3"
 #对接地址
-dockerurl="https://cithcloud.top"
+dockerurl="https://crithgogocloud.sbs"
 #对接key
 dockerkey="200423"
 #host
