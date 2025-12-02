@@ -1,6 +1,6 @@
 shell_version="1.1.3"
 #对接地址
-dockerurl="https://sub.gogo.bid"
+dockerurl="https://cithcloud.top"
 #对接key
 dockerkey="200423"
 #host
